@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Typography, Button, Space, Row, Col, Card, Layout } from 'antd';
+import { Typography, Button, Row, Col, Card, Layout } from 'antd';
 import {
     ArrowRightOutlined,
     WifiOutlined,
